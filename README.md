@@ -1,4 +1,4 @@
-# lcls-plc-test=cablelength project
+# lcls-plc-test-cablelength project
 
 This repository contains the test project for testing the max cable lenght for motion system.
 
