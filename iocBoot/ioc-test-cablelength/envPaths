@@ -1,0 +1,2 @@
+epicsEnvSet("IOC_TOP", "/c/Users/janezg/projects/lcls-plc-test-cablelength/iocBoot/ioc-test-cablelength")
+epicsEnvSet("IOC_DATA", "/cds/data/iocData")
